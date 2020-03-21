@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.jpg";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
@@ -136,7 +136,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Join our discord! https://discord.gg/Yg3fkA3",
+	"Join our discord! https://discord.gg/GNvq8xK",
 ];
 
 // Random message order?
