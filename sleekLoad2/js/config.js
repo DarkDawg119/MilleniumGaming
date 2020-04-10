@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Nightwolf CWRP";
+var l_serverName = "Millenium Gaming";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -75,7 +75,8 @@ var l_bgImages = [
 	"background1.jpg",
 	"background2.png",
 	"background3.jpg",
-	"background4.jpg"
+	"background4.jpg",
+	"background5.jpg"
 ];
 
 // (Image-background only)
