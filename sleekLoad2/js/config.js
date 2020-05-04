@@ -72,11 +72,11 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"background1.jpg",
-	"background2.png",
+	"background1.png",
+	"background2.jpg",
 	"background3.jpg",
 	"background4.jpg",
-	"background5.jpg"
+	"backgroud5.jpg"
 ];
 
 // (Image-background only)
