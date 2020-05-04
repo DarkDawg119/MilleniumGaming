@@ -137,7 +137,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Join our discord! https://discord.gg/GNvq8xK",
+	"Join our discord! https://discord.gg/MRRDvHb",
 ];
 
 // Random message order?
